@@ -22,6 +22,6 @@ Note that instead of `{vk.com}` there can be a link for another external site th
 ### English speaking clubs
 
 | Name/link for details | Time | Place |
-|=======================|======|=======|
+|-----------------------|------|-------|
 | [myenglishclub](/english/myenglishclub.md) [{vk.com}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00 | [Boroda cafe](https://vk.com/borodacafe) |
 | [escnn](/english/escnn.md) [{vk.com}](https://vk.com/escnn) | Every Sunday, 14:00-17:00 | [Geronimo anticafe](https://vk.com/geronimonn) |
