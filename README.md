@@ -17,7 +17,6 @@ If you have suggestions, please [report it](https://github.com/speaking-clubs-ni
 
 If you want know more about particular speaking club, you can either
 follow `{vk.com}` (if present) link or details page (click on the name of the club).
-Note that instead of `{vk.com}` there can be a link for another external site that is used by the club hosts as an "official" resource.
 
 ### English speaking clubs
 
