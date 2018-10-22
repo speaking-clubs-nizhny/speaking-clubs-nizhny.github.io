@@ -9,6 +9,8 @@ speaking clubs happening at [Nizhny Novgorod](https://en.wikipedia.org/wiki/Nizh
 
 It is intended to be up-to-date and invactive clubs are going to be removed.
 
+You might also want to join [vk group](https://vk.com/speaking_clubs_nizhny).
+
 ## Index
 
 This index is a living thing, it's never complete but hopefully it's
