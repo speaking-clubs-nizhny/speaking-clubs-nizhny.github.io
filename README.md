@@ -18,6 +18,6 @@ If you have suggestions, please [report it](https://github.com/speaking-clubs-ni
 ### English speaking clubs
 
 | Name/link for details | Time | Place |
-|=======================|======|=======|
+|-----------------------|------|-------|
 | [myenglishclub](/english/myenglishclub.md) [{VK}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00 | [Boroda cafe](https://vk.com/borodacafe) |
 | [escnn](/english/escnn.md) [{VK}](https://vk.com/escnn) | Every Sunday, 14:00-17:00 | [Geronimo anticafe](https://vk.com/geronimonn) |
