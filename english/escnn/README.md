@@ -14,10 +14,10 @@ This group has been created to provide the latest information about the meetings
 
 Every participant must pay for the time spent at Geronimo according to the organisation's requirements: 2,5 rubles per minute. The best part of it is that any guest can get unlimited access to tea, coffee and sweets for free during the time spent there.
 
-Group in vk: https://vk.com/escnn.
+[{Club group in vk}](https://vk.com/escnn)
 
-## Place
+## The place
 
 Geronimo time cafe located at Добролюбова 10.
 
-Group in vk: https://vk.com/geronimonn.
+[{Geronimo group in vk}](https://vk.com/geronimonn)
