@@ -15,9 +15,6 @@ This index is a living thing, it's never complete but hopefully it's
 precise in specific point of time (the moment you're reading it).
 If you have suggestions, please [report it](https://github.com/speaking-clubs-nizhny/speaking-clubs-nizhny.github.io/issues/new).
 
-If you want know more about particular speaking club, you can either
-follow `{vk.com}` (if present) link or details page (click on the name of the club).
-
 ### English speaking clubs
 
 | Name/link for details | Time | Place |
