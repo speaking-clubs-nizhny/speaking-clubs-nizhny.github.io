@@ -3,7 +3,8 @@
     <image src="https://avatars2.githubusercontent.com/u/44372866?s=200&v=4"/>
   </td><td>
     <h1>Speaking clubs at Nizhny Novgorod</h1>
-    Curated list of different speaking clubs at Nizhny Novgorod
+    Curated list of different speaking clubs at Nizhny Novgorod<br>
+    <a href="https://vk.com/speaking_clubs_nizhny">https://vk.com/speaking_clubs_nizhny</a>
   </td></tr>
 </table>
 
@@ -13,8 +14,6 @@ This site is an attempt to collect a more-or-less complete list of active
 speaking clubs happening at [Nizhny Novgorod](https://en.wikipedia.org/wiki/Nizhny_Novgorod) on a regular basis.
 
 It is intended to be up-to-date and invactive clubs are going to be removed.
-
-You might also want to join [vk group](https://vk.com/speaking_clubs_nizhny).
 
 ## Index
 
