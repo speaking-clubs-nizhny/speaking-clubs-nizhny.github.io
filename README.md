@@ -21,6 +21,6 @@ If you have suggestions, please [report it](https://github.com/speaking-clubs-ni
 
 | Name/link for details | Time | Place |
 |-----------------------|------|-------|
-| [everyday_english](/english/everyday_english/) [{vk.com}](https://vk.com/public167092329) | Every Tuesday, 19:00 | [Молодость coffee house](https://2gis.ru/n_novgorod/search/%D0%BA%D0%B0%D1%84%D0%B5%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D1%8C/firm/70000001033652173?queryState=center%2F43.983575%2C56.308593%2Fzoom%2F16) |
-| [myenglishclub](/english/myenglishclub/) [{vk.com}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00 | [Boroda cafe](https://vk.com/borodacafe) |
-| [escnn](/english/escnn/) [{vk.com}](https://vk.com/escnn) | Every Sunday, 14:00-17:00 | [Geronimo anticafe](https://vk.com/geronimonn) |
+| [everyday_english](/english/everyday_english/) [{vk.com}](https://vk.com/public167092329) | Every Tuesday, 19:00 | Кофейня Молодость; Большая Покровская, 82 |
+| [myenglishclub](/english/myenglishclub/) [{vk.com}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00 | [Кафе Борода](https://vk.com/borodacafe); Ильинская 80 |
+| [escnn](/english/escnn/) [{vk.com}](https://vk.com/escnn) | Every Sunday, 14:00-17:00 | [Тайм-кафе Джеронимо](https://vk.com/geronimonn); Добролюбова 10 |
