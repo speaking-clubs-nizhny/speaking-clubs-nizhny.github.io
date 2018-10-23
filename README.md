@@ -19,14 +19,14 @@ If you have suggestion, please [report it](https://github.com/speaking-clubs-niz
 
 ### English speaking clubs
 
-| Name/link for details | Time | Place |
+| Name/link for details | Time & Price | Place |
 |-----------------------|------|-------|
-| [everyday_english](/english/everyday_english/)<br>[{vk.com}](https://vk.com/public167092329) | Every Tuesday, 19:00 | Кофейня Молодость<br>Большая Покровская, 82 |
-| [myenglishclub](/english/myenglishclub/)<br>[{vk.com}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00 | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
-| [escnn](/english/escnn/)<br>[{vk.com}](https://vk.com/escnn) [{Telegram}](https://t.me/escnn) | Every Sunday, 14:00-17:00 | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>Добролюбова 10 |
+| [everyday_english](/english/everyday_english/)<br>[{vk.com}](https://vk.com/public167092329) | Every Tuesday, 19:00<br>200 rub | Кофейня Молодость<br>Большая Покровская, 82 |
+| [myenglishclub](/english/myenglishclub/)<br>[{vk.com}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
+| [escnn](/english/escnn/)<br>[{vk.com}](https://vk.com/escnn) [{Telegram}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (up to 300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>Добролюбова 10 |
 
 ### Spanish speaking clubs
 
 | Name/link for details | Time | Place |
 |-----------------------|------|-------|
-| [clubesparg](/spanish/clubesparg/)<br>[{vk.com}](https://vk.com/clubesparg) | Every Wednesday, 19:30 | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
+| [clubesparg](/spanish/clubesparg/)<br>[{vk.com}](https://vk.com/clubesparg) | Every Wednesday, 19:30<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
