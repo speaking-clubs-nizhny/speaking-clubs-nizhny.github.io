@@ -15,7 +15,7 @@ You might also want to join [vk group](https://vk.com/speaking_clubs_nizhny).
 
 This index is a living thing, it's never complete but hopefully it's
 precise in specific point of time (the moment you're reading it).
-If you have suggestions, please [report it](https://github.com/speaking-clubs-nizhny/speaking-clubs-nizhny.github.io/issues/new).
+If you have suggestion, please [report it](https://github.com/speaking-clubs-nizhny/speaking-clubs-nizhny.github.io/issues/new).
 
 ### English speaking clubs
 
