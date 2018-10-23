@@ -27,6 +27,6 @@ If you have a suggestion, please [report it](https://github.com/speaking-clubs-n
 
 ### Spanish speaking clubs
 
-| Name/link for details | Time | Place |
+| Name/link for details | Time & Price | Place |
 |-----------------------|------|-------|
 | [clubesparg](/spanish/clubesparg/)<br>[{vk.com}](https://vk.com/clubesparg) | Every Wednesday, 19:30<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
