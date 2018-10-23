@@ -1,4 +1,6 @@
-# Speaking clubs at Nizhny Novgorod 
+# Speaking clubs at Nizhny Novgorod
+
+![logo](https://avatars2.githubusercontent.com/u/44372866?s=200&v=4)
 
 Curated list of different speaking clubs at Nizhny Novgorod.
 
