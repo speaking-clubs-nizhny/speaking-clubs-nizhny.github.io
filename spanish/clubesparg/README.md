@@ -2,11 +2,14 @@
 
 ## Overview
 
-Una vez por semana nos juntamos a charlar en español en nuestro Club de Conversación «¡Buena Onda!», en un entorno amigable e interesante.
+Every Tuesday we're gathering and practicing Spanish in out «¡Buena Onda!» club.
 
-La organización del club está a cargo de Luciano de Buenos Aires (Argentina), autor del «Mataburros Argento» (diccionario online de lunfardo: [http://mataburros.koid.me](http://mataburros.koid.me)) y del blog sobre Rusia «Чё che?» ([http://che.koid.me](http://che.koid.me)).
+The atmosphere is very pleasant, you'll like it.
 
-¡Te esperamos!
+The club organizer, Luciano de Buenos Aires (Argentina), is the author of the online [«Mataburros Argento»](http://mataburros.koid.me) dictionary
+and [Living in Russia](http://che.koid.me) blog.
+
+[{Club group in vk}](https://vk.com/clubesparg)
 
 ## The place
 
