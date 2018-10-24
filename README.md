@@ -2,7 +2,7 @@
   <tr><td>
     <image src="https://avatars2.githubusercontent.com/u/44372866?s=200&v=4"/>
   </td><td>
-    <h1>Speaking clubs in Nizhny Novgorod</h1>
+    <h1>Speaking clubs in Nizhny</h1>
     Curated list of different speaking clubs in Nizhny Novgorod<br>
     <a href="https://vk.com/speaking_clubs_nizhny">https://vk.com/speaking_clubs_nizhny</a>
   </td></tr>
