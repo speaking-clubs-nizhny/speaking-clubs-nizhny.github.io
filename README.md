@@ -15,7 +15,7 @@ speaking clubs happening at [Nizhny Novgorod](https://en.wikipedia.org/wiki/Nizh
 
 It is intended to be up-to-date and invactive clubs are going to be removed.
 
-## 💡 Active speaking clubs 💡
+## ✔️ Active speaking clubs ✔️
 
 This index is a living thing, it's never complete but hopefully it's
 precise in specific point of time (the moment you're reading it).
@@ -35,7 +35,7 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 |-----------------------|------|-------|
 | [clubesparg](/spanish/clubesparg/)<br>[{vk.com}](https://vk.com/clubesparg) | Every Wednesday, 19:30<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
 
-## ⚰️ Closed speaking clubs ⚰️
+## ✖️ Closed speaking clubs ✖️
 
 Even if some speaking club is closed, it's useful to have an old community link so it's easier for someone
 to unite people and run speaking club again.
