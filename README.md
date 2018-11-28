@@ -28,7 +28,7 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 | [Everyday English](/english/everyday_english/)<br>[{vk}](https://vk.com/public167092329) | Every Tuesday, 19:00-20:30<br>200 rub | Кофейня Молодость<br>Большая Покровская, 82 |
 | [Dreams come true](/english/dreams_come_true/)<br>[{vk}](https://vk.com/event174363394) | Every Thursday, 17:00<br>**Free** | [Кофейня Смысл](https://vk.com/smisl_nn)<br>проспект Гагарина, 21 |
 | [Eclub-NN](/english/eclub_nn/)<br>[{vk}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
-| [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{Telegram}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (up to 300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>Добролюбова 10 |
+| [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{Telegram}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (~300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>Добролюбова 10 |
 
 ### Spanish speaking clubs
 
