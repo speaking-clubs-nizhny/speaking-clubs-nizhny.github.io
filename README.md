@@ -47,7 +47,6 @@ to unite people and run speaking club again.
 
 | Group link | Last activity date (approx) | Last place |
 |------------|-----------------------------|------------|
-| [discussionfr](https://vk.com/discussionfr) | August, 2018 | [Мастер-класс кафе То самое место](https://vk.com/gorkogo226) |
 | [deutschersprechklub](https://vk.com/deutschersprechklub) | February, 2018 | [Тайм-кафе Циферблат](https://vk.com/ziferblatnn) (closed) |
 
 > If you know other speaking club that has perished, please [report it](https://vk.com/speaking_clubs_nizhny).
