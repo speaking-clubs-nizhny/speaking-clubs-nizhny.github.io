@@ -25,7 +25,6 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 
 | Name/link for details | Time & Price | Place |
 |-----------------------|------|-------|
-| [Everyday English](/english/everyday_english/)<br>[{vk}](https://vk.com/public167092329) | Every Tuesday, 19:00-20:30<br>200 rub | Кофейня Молодость<br>Большая Покровская, 82 |
 | [Eclub-NN](/english/eclub_nn/)<br>[{vk}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
 | [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{Telegram}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (~300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>Добролюбова 10 |
 
@@ -35,12 +34,18 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 |-----------------------|------|-------|
 | [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | Every Wednesday, 19:30<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
 
+### French speaking clubs
+
+| Name/link for details | Time & Price | Place |
+|-----------------------|------|-------|
+| [discussionfr](/french/discussionfr/)<br>[{vk}](https://vk.com/discussionfr) | Once in a few weeks<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>Ильинская 80 |
+
 ## ✖️ Closed speaking clubs ✖️
 
 Even if some speaking club is closed, it's useful to have an old community link so it's easier for someone
 to unite people and run speaking club again.
 
-| Group link | Last activity adte (approx) | Last place |
+| Group link | Last activity date (approx) | Last place |
 |------------|-----------------------------|------------|
 | [discussionfr](https://vk.com/discussionfr) | August, 2018 | [Мастер-класс кафе То самое место](https://vk.com/gorkogo226) |
 | [deutschersprechklub](https://vk.com/deutschersprechklub) | February, 2018 | [Тайм-кафе Циферблат](https://vk.com/ziferblatnn) (closed) |
