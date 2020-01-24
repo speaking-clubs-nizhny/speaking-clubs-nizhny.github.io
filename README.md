@@ -10,16 +10,18 @@
 
 ## Overview
 
-This site is an attempt to collect a more-or-less complete list of active
-speaking clubs happening at [Nizhny Novgorod](https://en.wikipedia.org/wiki/Nizhny_Novgorod) on a regular basis.
+This site is an attempt to collect a more or less complete list of active
+speaking clubs meetings taking place in [Nizhny Novgorod, Russia](https://en.wikipedia.org/wiki/Nizhny_Novgorod)
+on a regular basis.
 
-It is intended to be up-to-date and invactive clubs are going to be removed.
+It is intended to be up-to-date and invactive clubs will be removed.
 
 ## ✔️ Active speaking clubs ✔️
 
-This index is a living thing, it's never complete but hopefully it's
-precise in specific point of time (the moment you're reading it).
-If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhny).
+This index is a living thing, it'll never be perfect but hopefully it's
+good enough at a given time.
+
+> You're welcome to send [us](https://vk.com/speaking_clubs_nizhny) updates via [DM](https://vk.com/im?sel=-172959905) at any time!
 
 ### English speaking clubs
 
@@ -81,4 +83,5 @@ to unite people and run speaking club again.
 | [IT's Me, Mate](https://vk.com/itmmspeak) | November 2019 | [Лофт "Голицын"](https://vk.com/loft47c) |
 | [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | July 2019 | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
 
-> If you know other speaking club that has perished, please [report it](https://vk.com/speaking_clubs_nizhny).
+> If you know other speaking club that has perished, please contact [us](https://vk.com/speaking_clubs_nizhny) via [DM](https://vk.com/im?sel=-172959905).
+
