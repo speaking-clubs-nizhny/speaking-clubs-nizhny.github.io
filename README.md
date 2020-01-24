@@ -26,7 +26,7 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
 | [Eclub-NN](/english/eclub_nn/)<br>[{vk}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
-| [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{Telegram}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (~300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>ул. Добролюбова, 10 |
+| [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{tg}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (~300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>ул. Добролюбова, 10 |
 | ngoubn_en<br>[{vk}](https://vk.com/ino_nn) | On Sundays, once a month, 16:00<br>180 rub | [Отдел литературы на иностранных языках НГОУНБ](https://vk.com/ino_nn?w=address-162054778_57869)<br>ул. Варварская, 3 |
 | Блин, I don't understand! Speaking club and english quiz <br>[{vk}](https://vk.com/blin_i_dont_understand) | Every week<br>Not fixed|Not fixed|
 | FVChat<br>[{vk}](https://vk.com/forcevedda) | Every few weeks<br>250 rub | [Центр Force Vedda](https://vk.com/forcevedda?w=address-22088713_55198)<br>ул. Короленко, 27|
