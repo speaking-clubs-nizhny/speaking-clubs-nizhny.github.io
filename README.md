@@ -36,7 +36,6 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
-| [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | Every Wednesday, 19:30<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
 | linguist_sp<br>[{vk}](https://vk.com/spanish_speaking_club) | Every Friday, 18:30<br>300 rub|[Центр Linguist](https://vk.com/linguist_nn)<br>ул. Студёная, 37|
 
 ### French speaking clubs
@@ -74,5 +73,6 @@ to unite people and run speaking club again.
 | [deutschersprechklub](https://vk.com/deutschersprechklub) | February, 2018 | [Тайм-кафе Циферблат](https://vk.com/ziferblatnn) (closed) |
 | [Английский в Диалогах](https://vk.com/engdialogues) | December 2019 | [Пространство Диалоги](https://vk.com/dialogi_nn) |
 | [IT's Me, Mate](https://vk.com/itmmspeak) | November 2019 | [Лофт "Голицын"](https://vk.com/loft47c) |
+| [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | July 2019 | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
 
 > If you know other speaking club that has perished, please [report it](https://vk.com/speaking_clubs_nizhny).
