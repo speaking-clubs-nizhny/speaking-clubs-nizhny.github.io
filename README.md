@@ -57,6 +57,12 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 |-----------------------|------|-------|
 | linguist_jp<br>[{vk}](https://vk.com/japanese_speaking_club) | Occasionally<br>300 rub | Not fixed |
 
+### Serbian speaking clubs
+
+| Name/link for details | Time & Price | Place/Orgs |
+|-----------------------|------|-------|
+| serbian_unn<br>[{vk}](https://vk.com/public185500515) [{fb}](https://www.facebook.com/serbian.unn/)| Every Sunday, 15:00<br>**Free**| [Сербский центр ННГУ](https://2gis.ru/n_novgorod/geo/2674647933945849/tab/inside?m=43.999189%2C56.320765%2F19.6)<br>ул. Б.Покровская, д.37, 1 этаж, каб.117. |
+
 ### Polilingual speaking clubs
 
 | Name/link for details | Time & Price | Place/Orgs |
