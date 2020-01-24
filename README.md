@@ -43,7 +43,7 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
 | [discussionfr](/french/discussionfr/)<br>[{vk}](https://vk.com/discussionfr) | Every few weeks<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
-| Альянс Франсез<br>[{vk}](https://vk.com/af_nn) | Every few weeks<br>**Free** | ул.Ошарская, д.18/1 |
+| l_alliance_fr<br>[{vk}](https://vk.com/af_nn) | Every few weeks<br>**Free** | [Альянс Франсез](https://2gis.ru/n_novgorod/firm/2674540563146140?m=44.009834%2C56.319834%2F16)<br>ул.Ошарская, д.18/1 |
 
 ### German speaking clubs
 
@@ -76,7 +76,7 @@ to unite people and run speaking club again.
 
 | Group link | Last activity date (approx) | Last place |
 |------------|-----------------------------|------------|
-| [deutschersprechklub](https://vk.com/deutschersprechklub) | February, 2018 | [Тайм-кафе Циферблат](https://vk.com/ziferblatnn) (closed) |
+| [deutschersprechklub](https://vk.com/deutschersprechklub) | February 2018 | [Тайм-кафе Циферблат](https://vk.com/ziferblatnn) (closed) |
 | [Английский в Диалогах](https://vk.com/engdialogues) | December 2019 | [Пространство Диалоги](https://vk.com/dialogi_nn) |
 | [IT's Me, Mate](https://vk.com/itmmspeak) | November 2019 | [Лофт "Голицын"](https://vk.com/loft47c) |
 | [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | July 2019 | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
