@@ -10,23 +10,25 @@
 
 ## Overview
 
-This site is an attempt to collect a more-or-less complete list of active
-speaking clubs happening at [Nizhny Novgorod](https://en.wikipedia.org/wiki/Nizhny_Novgorod) on a regular basis.
+This site is an attempt to collect a more or less complete list of active
+speaking clubs meetings taking place in [Nizhny Novgorod, Russia](https://en.wikipedia.org/wiki/Nizhny_Novgorod)
+on a regular basis.
 
-It is intended to be up-to-date and invactive clubs are going to be removed.
+It is intended to be up-to-date and invactive clubs will be removed.
 
 ## ✔️ Active speaking clubs ✔️
 
-This index is a living thing, it's never complete but hopefully it's
-precise in specific point of time (the moment you're reading it).
-If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhny).
+This index is a living thing, it'll never be perfect but hopefully it's
+good enough at a given time.
+
+> You're welcome to send [us](https://vk.com/speaking_clubs_nizhny) updates via [DM](https://vk.com/im?sel=-172959905) at any time!
 
 ### English speaking clubs
 
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
 | [Eclub-NN](/english/eclub_nn/)<br>[{vk}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
-| [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{Telegram}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (~300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>ул. Добролюбова, 10 |
+| [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{tg}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (~300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>ул. Добролюбова, 10 |
 | ngoubn_en<br>[{vk}](https://vk.com/ino_nn) | On Sundays, once a month, 16:00<br>180 rub | [Отдел литературы на иностранных языках НГОУНБ](https://vk.com/ino_nn?w=address-162054778_57869)<br>ул. Варварская, 3 |
 | Блин, I don't understand! Speaking club and english quiz <br>[{vk}](https://vk.com/blin_i_dont_understand) | Every week<br>Not fixed|Not fixed|
 | FVChat<br>[{vk}](https://vk.com/forcevedda) | Every few weeks<br>250 rub | [Центр Force Vedda](https://vk.com/forcevedda?w=address-22088713_55198)<br>ул. Короленко, 27|
@@ -36,7 +38,6 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
-| [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | Every Wednesday, 19:30<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
 | linguist_sp<br>[{vk}](https://vk.com/spanish_speaking_club) | Every Friday, 18:30<br>300 rub|[Центр Linguist](https://vk.com/linguist_nn)<br>ул. Студёная, 37|
 
 ### French speaking clubs
@@ -44,7 +45,7 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
 | [discussionfr](/french/discussionfr/)<br>[{vk}](https://vk.com/discussionfr) | Every few weeks<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
-| Альянс Франсез<br>[{vk}](https://vk.com/af_nn) | Every few weeks<br>**Free** | ул.Ошарская, д.18/1 |
+| l_alliance_fr<br>[{vk}](https://vk.com/af_nn) | Every few weeks<br>**Free** | [Альянс Франсез](https://2gis.ru/n_novgorod/firm/2674540563146140?m=44.009834%2C56.319834%2F16)<br>ул.Ошарская, д.18/1 |
 
 ### German speaking clubs
 
@@ -57,6 +58,12 @@ If you have a suggestion, please [report it](https://vk.com/speaking_clubs_nizhn
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
 | linguist_jp<br>[{vk}](https://vk.com/japanese_speaking_club) | Occasionally<br>300 rub | Not fixed |
+
+### Serbian speaking clubs
+
+| Name/link for details | Time & Price | Place/Orgs |
+|-----------------------|------|-------|
+| serbian_unn<br>[{vk}](https://vk.com/public185500515) [{fb}](https://www.facebook.com/serbian.unn/)| Every Sunday, 15:00<br>**Free**| [Сербский центр ННГУ](https://2gis.ru/n_novgorod/geo/2674647933945849/tab/inside?m=43.999189%2C56.320765%2F19.6)<br>ул. Б.Покровская, д.37, 1 этаж, каб.117. |
 
 ### Polilingual speaking clubs
 
@@ -71,8 +78,10 @@ to unite people and run speaking club again.
 
 | Group link | Last activity date (approx) | Last place |
 |------------|-----------------------------|------------|
-| [deutschersprechklub](https://vk.com/deutschersprechklub) | February, 2018 | [Тайм-кафе Циферблат](https://vk.com/ziferblatnn) (closed) |
+| [deutschersprechklub](https://vk.com/deutschersprechklub) | February 2018 | [Тайм-кафе Циферблат](https://vk.com/ziferblatnn) (closed) |
 | [Английский в Диалогах](https://vk.com/engdialogues) | December 2019 | [Пространство Диалоги](https://vk.com/dialogi_nn) |
 | [IT's Me, Mate](https://vk.com/itmmspeak) | November 2019 | [Лофт "Голицын"](https://vk.com/loft47c) |
+| [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | July 2019 | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
 
-> If you know other speaking club that has perished, please [report it](https://vk.com/speaking_clubs_nizhny).
+> If you know other speaking club that has perished, please contact [us](https://vk.com/speaking_clubs_nizhny) via [DM](https://vk.com/im?sel=-172959905).
+
