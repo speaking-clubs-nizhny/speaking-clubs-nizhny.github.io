@@ -29,7 +29,7 @@ good enough at a given time.
 |-----------------------|------|-------|
 | [Eclub-NN](/english/eclub_nn/)<br>[{vk}](https://vk.com/myenglishclub) | Every Saturday, 14:00-16:00<br>**Free** | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
 | [ESCNN](/english/escnn/)<br>[{vk}](https://vk.com/escnn) [{tg}](https://t.me/escnn) | Every Sunday, 14:00-17:00<br>2.5 rub/minute (~300 rub) | [Тайм-кафе Джеронимо](https://vk.com/geronimonn)<br>ул. Добролюбова, 10 |
-| ngoubn_en<br>[{vk}](https://vk.com/ino_nn) | On Sundays, once a month, 16:00<br>180 rub | [Отдел литературы на иностранных языках НГОУНБ](https://vk.com/ino_nn?w=address-162054778_57869)<br>ул. Варварская, 3 |
+| ngoubn_en<br>[{vk}](https://vk.com/ino_nn) | On Saturdays, once a month, 16:00<br>180 rub | [Отдел литературы на иностранных языках НГОУНБ](https://vk.com/ino_nn?w=address-162054778_57869)<br>ул. Варварская, 3 |
 | Блин, I don't understand! Speaking club and english quiz <br>[{vk}](https://vk.com/blin_i_dont_understand) | Every week<br>Not fixed|Not fixed|
 | FVChat<br>[{vk}](https://vk.com/forcevedda) | Every few weeks<br>250 rub | [Центр Force Vedda](https://vk.com/forcevedda?w=address-22088713_55198)<br>ул. Короленко, 27|
 | Sphera speaking club<br>[{vk}](https://vk.com/workcamp) | Every few weeks, 18:00-20:00<br>**Free** | [Движение Сфера](https://vk.com/workcamp?w=address-1571828_56118)<br>ул. Пискунова, 27 |
@@ -51,7 +51,7 @@ good enough at a given time.
 
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
-| ngoubn_ge <br>[{vk}](https://vk.com/dsaal_nn) | On Sundays, once a month, 16:00<br>180 rub | [Немецкий читальный зал НГОУНБ](https://vk.com/dsaal_nn?w=address-61545234_15142)<br>ул. Варваская, 3 |
+| ngoubn_ge <br>[{vk}](https://vk.com/dsaal_nn) | On Saturdays, once a month, 16:00<br>180 rub | [Немецкий читальный зал НГОУНБ](https://vk.com/dsaal_nn?w=address-61545234_15142)<br>ул. Варваская, 3 |
 
 ### Japaneese speaking clubs
 
@@ -63,7 +63,7 @@ good enough at a given time.
 
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
-| serbian_unn<br>[{vk}](https://vk.com/public185500515) [{fb}](https://www.facebook.com/serbian.unn/)| Every Sunday, 15:00<br>**Free**| [Сербский центр ННГУ](https://2gis.ru/n_novgorod/geo/2674647933945849/tab/inside?m=43.999189%2C56.320765%2F19.6)<br>ул. Б.Покровская, д.37, 1 этаж, каб.117. |
+| serbian_unn<br>[{vk}](https://vk.com/public185500515) [{fb}](https://www.facebook.com/serbian.unn/)| Every Saturday, 15:00<br>**Free**| [Сербский центр ННГУ](https://2gis.ru/n_novgorod/geo/2674647933945849/tab/inside?m=43.999189%2C56.320765%2F19.6)<br>ул. Б.Покровская, д.37, 1 этаж, каб.117. |
 
 ### Polilingual speaking clubs
 
