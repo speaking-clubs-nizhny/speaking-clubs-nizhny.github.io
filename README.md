@@ -39,6 +39,7 @@ good enough at a given time.
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
 | linguist_sp<br>[{vk}](https://vk.com/spanish_speaking_club) | Every Friday, 18:30<br>300 rub|[Центр Linguist](https://vk.com/linguist_nn)<br>ул. Студёная, 37|
+| ngoubn_sp<br>[{vk}](https://vk.com/ino_nn) | On Saturdays, once a month, 16:00<br>200 rub | [Отдел литературы на иностранных языках НГОУНБ](https://vk.com/ino_nn?w=address-162054778_57869)<br>ул. Варварская, 3 |
 
 ### French speaking clubs
 
