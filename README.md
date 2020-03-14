@@ -58,6 +58,7 @@ good enough at a given time.
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
 | linguist_jp<br>[{vk}](https://vk.com/japanese_speaking_club) | Occasionally<br>300 rub | Not fixed |
+| raduga_jp<br>[{vk}](https://vk.com/nizinokai)<br>[{www}](https://nn.jc.org.ru/ru/yaponskij-yazyik/klub-obshheniya-na-yaponskom-yazyike.html) | Occasionally<br>**Free**| [Японский центр](https://nn.jc.org.ru/ru/index.html)<br>ул. Максима Горького 117, офис 1101 |
 
 ### Serbian speaking clubs
 
