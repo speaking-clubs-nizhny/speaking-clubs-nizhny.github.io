@@ -90,6 +90,9 @@ to unite people and run speaking club again.
 | [Английский в Диалогах](https://vk.com/engdialogues) | December 2019 | [Пространство Диалоги](https://vk.com/dialogi_nn) |
 | [IT's Me, Mate](https://vk.com/itmmspeak) | November 2019 | [Лофт "Голицын"](https://vk.com/loft47c) |
 | [clubesparg](/spanish/clubesparg/)<br>[{vk}](https://vk.com/clubesparg) | July 2019 | [Кафе Борода](https://vk.com/borodacafe)<br>ул. Ильинская, 80 |
+| [English Club Connect](https://vk.com/club180781326) | October 2019 | Ресторан Berlusconi |
+| [Speakman](https://vk.com/speakman.club) | June 2019 | **???** |
+| [Dein Deutsch Sprachclub](http://www.deindeutsch.ru/мероприятия/)<br>[{vk}](https://vk.com/deindeutsch) | December 2016 **???** | [Dein Deutsch](https://vk.com/deindeutsch?w=address-61294283_54977)<br>ул. Звездинка, 10Б |
 
 > If you know other speaking club that has perished, please contact [us](https://vk.com/speaking_clubs_nizhny) via [DM](https://vk.com/im?sel=-172959905).
 
