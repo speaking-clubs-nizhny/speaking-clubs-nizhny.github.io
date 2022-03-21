@@ -65,7 +65,7 @@ good enough at a given time.
 
 | Name/link for details | Time & Price | Place/Orgs |
 |-----------------------|------|-------|
-| serbian_unn<br>[{vk}](https://vk.com/public185500515) [{fb}](https://www.facebook.com/serbian.unn/)| Every Saturday, 15:00<br>**Free**| [Сербский центр ННГУ](https://2gis.ru/n_novgorod/geo/2674647933945849/tab/inside?m=43.999189%2C56.320765%2F19.6)<br>ул. Б.Покровская, д.37, 1 этаж, каб.117. |
+| serbian_unn<br>[{vk}](https://vk.com/public185500515) | Every Saturday, 15:00<br>**Free**| [Сербский центр ННГУ](https://2gis.ru/n_novgorod/geo/2674647933945849/tab/inside?m=43.999189%2C56.320765%2F19.6)<br>ул. Б.Покровская, д.37, 1 этаж, каб.117. |
 
 ### Russian speaking clubs [#nn_russian](https://vk.com/feed?section=search&q=%23nn_russian)
 
